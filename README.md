@@ -9,9 +9,9 @@ ZombsRoyale plus hack
 <h2>Extension N/A <a href="" target="_blank">CLICK HERE</a></h2>
 -------------------------------------------------------------------------------------------------
 
-How to install v1:
+How to install Extension verson:
 
-Extract the zip file (From v3 link above)
+Extract the zip file (From Extension link above)
 
 Open the zip and drag the contents into a new folder.
 
